@@ -1,0 +1,13 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<estudiantes>
+	<estudiante>
+		<codigo>20252094013</codigo>
+		<nombre>Johan Sebastian Martinez</nombre>
+		<notas>
+			<nota>32</nota>
+			<nota>50</nota>
+			<nota>41</nota>
+			<nota>40</nota>
+		</notas>
+	</estudiante>
+</estudiantes>
