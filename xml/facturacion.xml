@@ -1,6 +1,6 @@
 <?xml version= "1.0" encoding="UTF-8"?>
 <servicios>
-	<geógraficos>
+	<geograficos>
 		<encabezado>
 			<numero-factura>
 				<numero>001</numero>
@@ -39,6 +39,9 @@
 					<cantidad>1</cantidad>
 					<precio>$500</precio>
 				</servicio>
+				<pago>
+					<metodo-pago>tarjeta</metodo-pago>
+				</pago>
 			</numero-factura>
 			<numero-factura>
 				<numero>002</numero>
@@ -77,7 +80,10 @@
 					<cantidad>2</cantidad>
 					<precio>$1000</precio>
 				</servicio>
+				<pago>
+					<metodo-pago>tarjeta</metodo-pago>
+				</pago>
 			</numero-factura>	
 		</encabezado>	
-	</geógraficos>
+	</geograficos>
 </servicios>
