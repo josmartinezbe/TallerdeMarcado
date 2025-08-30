@@ -1,0 +1,83 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<servicios>
+	<geógraficos>
+		<encabezado>
+			<numero-factura>
+				<numero>001</numero>
+				<fecha>2025/08/30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Catalina Perez</nombre>
+					<nit>900124798</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Palmira</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>$500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>$200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>$500</precio>
+				</servicio>
+			</numero-factura>
+			<numero-factura>
+				<numero>002</numero>
+				<fecha>2025/00/30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Paola Munoz</nombre>
+					<nit>900124412</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Sonson</ciudad>
+					<direccion>Calle 3 # 4 13 </direccion>
+					<telefono>341899845</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>2</cantidad>
+					<precio>$1000</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>$200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>2</cantidad>
+					<precio>$1000</precio>
+				</servicio>
+			</numero-factura>	
+		</encabezado>	
+	</geógraficos>
+</servicios>
